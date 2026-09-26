@@ -1,12 +1,12 @@
-package member3.cart;
+package uitesting;
 
 import opencart.base.BaseTest;
 
-public class CartTest extends BaseTest {
+public class Member3CartTest extends BaseTest {
 
     public static void main(String[] args) {
 
-        CartTest test = new CartTest();
+        Member3CartTest test = new Member3CartTest();
 
         test.setUp();
 
